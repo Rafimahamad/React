@@ -5,9 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+html ,body ,#root{
+ /* background-color: #f3e5f5 ; */
+ width:100%;
+ height:48pc;
+ color: rgb(237, 244, 244);
+ background: linear-gradient(rgba(5, 5, 5, 0.8),rgba(87, 85, 85, 0.8)) ,url('../src/assets/electric-power.png');
+ /* background:linear-gradient(rgba(206, 187, 187, 0.8),rgba(0,0,0,0.8)),url(https://thumbs.dreamstime.com/z/high-voltage-power-line-passes-field-to-rise-buildings-urban-outskirts-121026538.jpg); ; */
+ background-size: cover;
+ background-position: center; 
+ background-repeat: no-repeat;
+
 }

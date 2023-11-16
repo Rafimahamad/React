@@ -13,8 +13,16 @@
   }
 }
 
+
+.sidebar-card{
+  height: 100% !important;
+  width: 100%;
+}
+.navColor{
+  background-color: rgb(156, 31, 156);
+}
 .App-header {
-  background-color: #282c34;
+ 
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,6 +34,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.history{
+ background: linear-gradient(rgba(5, 5, 5, 0.8),rgba(87, 85, 85, 0.8)) ,url('../src/assets/electric-power.png');
+
 }
 
 @keyframes App-logo-spin {

@@ -1,0 +1,140 @@
+{
+    "user": [
+      {
+        "firstName": "Mahammad",
+        "lastName": "Rafi",
+        "email": "rafi@virtusa.com",
+        "phone": "6500078990",
+        "gender": "male",
+        "password": "1234",
+        "location": "Hyderabad",
+        "confirmPassword": "1234",
+        "role": "admin",
+        "id": 245420
+      },
+      {
+        "firstName": "user",
+        "lastName": "1",
+        "email": "user1@gmail.com",
+        "phone": "7688899900",
+        "gender": "male",
+        "password": "12",
+        "location": "Chennai",
+        "confirmPassword": "12",
+        "role": "user",
+        "id": 345420
+      },
+      {
+        "firstName": "user2",
+        "lastName": "react",
+        "email": "user2@gmail.com",
+        "phone": "7756882018",
+        "gender": "male",
+        "password": "user2",
+        "location": "Bangalore",
+        "confirmPassword": "user2",
+        "role": "user",
+        "id": 444204
+      },
+      {
+        "firstName": "user3",
+        "lastName": "react3",
+        "email": "user3@gmail.com",
+        "phone": "6590778950",
+        "gender": "male",
+        "password": "user3",
+        "location": "Chennai",
+        "confirmPassword": "user3",
+        "role": "user",
+        "id": 454204
+      },
+      {
+        "firstName": "cbhd",
+        "lastName": "xcdscd",
+        "email": "abc@gmail.com",
+        "phone": "7766644890",
+        "gender": "female",
+        "password": "3452121",
+        "location": "Bangalore",
+        "confirmPassword": "3452121",
+        "role": "user",
+        "id": 327970
+      },
+      {
+        "firstName": "rafi",
+        "lastName": "mahmad",
+        "email": "rafi@gmail.com",
+        "phone": "7778899005",
+        "gender": "male",
+        "password": "123456",
+        "location": "Vizag",
+        "confirmPassword": "123456",
+        "role": "user",
+        "id": 695863
+      }
+    ],
+    "bills": [
+      {
+        "id": 2,
+        "name": "user1@gmail.com",
+        "billNo": 6500520067,
+        "amount": "290",
+        "date": "02/02/2023",
+        "status": true
+      },
+      {
+        "name": "user1@gmail.com",
+        "billNo": 1300532937,
+        "units": "60",
+        "amount": 120,
+        "date": "3/21/2023",
+        "status": true,
+        "id": 17
+      },
+      {
+        "name": "user1@gmail.com",
+        "billNo": 1101516378,
+        "units": "78",
+        "amount": 156,
+        "date": "3/21/2023",
+        "status": false,
+        "id": 18
+      },
+      {
+        "name": "user2@gmail.com",
+        "billNo": 4839740183,
+        "units": "78",
+        "amount": 156,
+        "date": "3/23/2023",
+        "status": false,
+        "id": 19
+      },
+      {
+        "name": "user3@gmail.com",
+        "billNo": 1326011696,
+        "units": "90",
+        "amount": 180,
+        "date": "3/23/2023",
+        "status": false,
+        "id": 20
+      },
+      {
+        "name": "user1@gmail.com",
+        "billNo": 7717698990,
+        "units": "98",
+        "amount": 196,
+        "date": "3/24/2023",
+        "status": false,
+        "id": 21
+      },
+      {
+        "name": "user2@gmail.com",
+        "billNo": 7501205227,
+        "units": "89",
+        "amount": 178,
+        "date": "3/27/2023",
+        "status": false,
+        "id": 22
+      }
+    ]
+  }
